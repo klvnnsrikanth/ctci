@@ -1,4 +1,4 @@
-package com.sk.chap01.strings;
+package com.sk.chap01;
 
 /**
  * 1.3 Write a method to replace all spaces in a string with '%20'. You may assume that the string

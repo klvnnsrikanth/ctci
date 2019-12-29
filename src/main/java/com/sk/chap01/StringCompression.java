@@ -1,4 +1,4 @@
-package com.sk.chap01.strings;
+package com.sk.chap01;
 
 /**
  * 1.6 Implement a method to perform basic string compression using the counts of repeated characters.

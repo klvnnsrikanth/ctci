@@ -1,4 +1,4 @@
-package com.sk.chap01.strings;
+package com.sk.chap01;
 
 import java.util.HashSet;
 

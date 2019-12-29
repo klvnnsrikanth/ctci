@@ -1,4 +1,4 @@
-package com.sk.chap01.strings;
+package com.sk.chap01;
 
 /**
  * 1.9 Assume you have a method isSubstring which checks if one word is a substring of another.
