@@ -8,4 +8,9 @@ public class Node {
         this.data = data;
         this.next = null;
     }
+
+    @Override
+    public String toString() {
+        return String.valueOf(this.data);
+    }
 }
